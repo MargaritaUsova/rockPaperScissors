@@ -37,7 +37,6 @@
 		6F614A3C2A695C2B00C1B26D = {
 			isa = PBXGroup;
 			children = (
-				6FEF5FBB2A6AA2E4007B76AE /* ezgif.com-optimize.gif */,
 				6F614A472A695C2B00C1B26D /* rockPaperScissors */,
 				6F614A462A695C2B00C1B26D /* Products */,
 			);
@@ -54,6 +53,7 @@
 		6F614A472A695C2B00C1B26D /* rockPaperScissors */ = {
 			isa = PBXGroup;
 			children = (
+				6FEF5FBB2A6AA2E4007B76AE /* ezgif.com-optimize.gif */,
 				6F614A482A695C2B00C1B26D /* rockPaperScissorsApp.swift */,
 				6F614A4A2A695C2B00C1B26D /* ContentView.swift */,
 				6F614A4C2A695C3200C1B26D /* Assets.xcassets */,
