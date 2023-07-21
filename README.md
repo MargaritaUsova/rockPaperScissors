@@ -1,5 +1,5 @@
-# rockPaperScissors
+# Rock-paper-scissors is a popular hand game
 
-![image](https://github.com/MargaritaUsova/rockPaperScissors/blob/main/rockPaperScissors/ezgif.com-optimize.gif)
-Описание:
-https://github.com/MargaritaUsova/rockPaperScissors/blob/main/rockPaperScissors/ezgif.com-optimize.gif
+<img src="https://github.com/MargaritaUsova/rockPaperScissors/blob/main/rockPaperScissors/ezgif.com-optimize.gif" width="300">
+
+
